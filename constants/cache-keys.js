@@ -1,0 +1,6 @@
+const CACHE_KEYS = {
+  VEHICLE_COUNTS: "VEHICLE_COUNTS",
+  PROCESSED_DATA: "PROCESSED_DATA",
+};
+
+module.exports = { CACHE_KEYS };
